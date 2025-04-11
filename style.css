@@ -1,0 +1,35 @@
+/* Reset default browser styles */
+body, h1, p {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Body styling */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #111;
+  color: #f2f2f2;
+  padding: 20px;
+}
+
+/* Header */
+h1 {
+  color: #e4002b;
+  margin-bottom: 10px;
+}
+
+/* Paragraphs */
+p {
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+/* Links */
+a {
+  color: #ffae00;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
